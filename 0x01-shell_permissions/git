@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "inpu commit massege"
+read var
+
+git add .
+git commit -m "${var}"
+git push
