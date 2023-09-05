@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -e '$!d' iacta >> iacta
