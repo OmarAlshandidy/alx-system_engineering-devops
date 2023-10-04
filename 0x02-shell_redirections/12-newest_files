@@ -1,2 +1,2 @@
--mindepth#!/bin/bash
-sort ls -la  | head -10
+#!/bin/bash
+sort ls -ls  | head -10
